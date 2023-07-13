@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@cypress/vite-plugin-cypress-esm": "^1.0.1",
+    "@cypress/vite-plugin-cypress-esm": "1.0.0",
     "cypress": "^12.17.1",
     "pinia": "^2.1.4",
     "vue": "^3.3.4"

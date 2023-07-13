@@ -36,10 +36,10 @@
     tunnel-agent "^0.6.0"
     uuid "^8.3.2"
 
-"@cypress/vite-plugin-cypress-esm@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@cypress/vite-plugin-cypress-esm/-/vite-plugin-cypress-esm-1.0.1.tgz#55551d3ecce1c4400da62fc60c8ea72dfd39ee37"
-  integrity sha512-GVpC6U19sCEWbnz75h1MdHOo6wCl/f9OmsJ5of6l47E7R+wQwd40k9BCSXUYydAPUXACJozOnicOrpJbnlS2yA==
+"@cypress/vite-plugin-cypress-esm@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@cypress/vite-plugin-cypress-esm/-/vite-plugin-cypress-esm-1.0.0.tgz#de3d96d66199b1e25481bbe05d7f0d67e1014436"
+  integrity sha512-ZoMvsJKZrvU8LY7pZ1LuhPyWbAAsd0RUnlsTBnfeMn7WeeG8jI9R3I2Xt3bH3UtG8Lv5QJ46Rc5jSdHM7ulrgA==
   dependencies:
     debug "^4.3.4"
     picomatch "2.3.0"
